@@ -15,7 +15,6 @@
 form input{
     margin: 20px;
     background-color: #5AAC73;
-    size: 2rem;
 }
 form{
     background-color: #59C9A5;
@@ -26,5 +25,11 @@ button{
     font-size: 1.5rem;
     
     border-radius: 10%;
+}
+.check{
+    transform: scale(2);
+}
+.options{
+    font-size: 1.5rem;
 }
 
