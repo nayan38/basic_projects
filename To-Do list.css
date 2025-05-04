@@ -11,10 +11,12 @@
     padding: 50px;
     border: 2px solid black;
     background-color: #59C9A5;
+    
 }
 form input{
     margin: 20px;
     background-color: #5AAC73;
+    
 }
 form{
     background-color: #59C9A5;
@@ -28,6 +30,7 @@ button{
 }
 .check{
     transform: scale(2);
+    cursor: pointer;
 }
 .options{
     font-size: 1.5rem;
